@@ -1,0 +1,9 @@
+{
+	"name": "azuredflatest",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "636d0461-da5f-4c87-80bd-810ed422d133",
+		"tenantId": "de3fb690-3963-4646-aa3a-71d3b2bc672c"
+	}
+}
